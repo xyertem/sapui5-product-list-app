@@ -17,7 +17,7 @@ server:
           url: https://ui5.sap.com
         backend:
           - path: /odata
-            url: https://d7075f5btrial-dev-sap-capire-mail-app-srv.cfapps.us10-001.hana.ondemand.com
+            url: https://4b4ec287trial-dev-sap-capire-mail-app-srv.cfapps.us10-001.hana.ondemand.com
             destination: capService
     - name: fiori-tools-appreload
       afterMiddleware: compression
